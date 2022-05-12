@@ -9,4 +9,6 @@ export default function BuildControl(props) {
       <button className='More'>More</button>
     </div>
   )
+
 }
+
